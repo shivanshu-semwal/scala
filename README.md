@@ -17,9 +17,21 @@
       <td>-</td>
       <td>-</td>
     </tr>
+        <tr>
+      <td>Data Types</td>
+      <td> <a href="./basics/data_types.scala">data_types.scala</a> </td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
     <tr>
       <td>Variable declaration</td>
       <td> <a href="./basics/vardec.scala">vardec.scala</a> </td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Operators</td>
+      <td> <a href="./basics/operators.scala">operators.scala</a> </td>
       <td>-</td>
       <td>-</td>
     </tr>
