@@ -2,12 +2,8 @@
   Hello world in scala
  */
 
-object Hello {
+object HelloWorld {
   def main(args: Array[String]) = {
-    println("Hello, world")
-    hello()
-  }
-  def hello() {
-    println("this is it");
+    println("Hello, world!")
   }
 }
