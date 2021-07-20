@@ -10,7 +10,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr> <td colspan=3>Basics 📁</tr> </tr>
+        <tr> <td colspan=4 align="center"><b>Basics 📁</b></tr> </tr>
         <tr>
             <td>hello world 👋 🌏</td>
             <td> <a href="./basics/hello.scala">hello.scala</a> </td>
