@@ -5,7 +5,7 @@
     <tr>
       <th>Problem Statement 📝</th>
       <th>Solution 🗒</th>
-      <th>Input Files / Output File</th>I
+      <th>Input Files / Output File</th>
       <th>Remarks</th>
     </tr>
   </thead>
