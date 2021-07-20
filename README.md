@@ -17,6 +17,12 @@
       <td>-</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td>Variable declaration</td>
+      <td> <a href="./basics/vardec.scala">vardec.scala</a> </td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
 
