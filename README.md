@@ -3,8 +3,8 @@
 <table>
   <thead>
     <tr>
-      <th>Problem Statement 📝</th>
-      <th>Solution 🗒</th>
+      <th>Problem Statement</th>
+      <th>Solution</th>
       <th>Input Files / Output File</th>
       <th>Remarks</th>
     </tr>
@@ -17,7 +17,7 @@
       <td>-</td>
       <td>-</td>
     </tr>
-        <tr>
+    <tr>
       <td>Data Types</td>
       <td> <a href="./lab2/data_types.scala">data_types.scala</a> </td>
       <td>-</td>
@@ -35,7 +35,7 @@
       <td>-</td>
       <td>-</td>
     </tr>
-    tr> <td colspan=4 align="center"><b>Lab 3</b></tr> </tr>
+    <tr> <td colspan=4 align="center"><b>Lab 3</b></tr> </tr>
     <tr>
       <td>Print Functions in Scala</td>
       <td> <a href="./lab3/printDemo.scala">operators.scala</a> </td>
@@ -63,6 +63,6 @@
   </tbody>
 </table>
 
-## Notes 📔
+## Notes
 
 
