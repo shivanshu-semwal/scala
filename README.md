@@ -10,9 +10,9 @@
     </tr>
   </thead>
   <tbody>
-    <tr> <td colspan=4 align="center"><b>Basics 📁</b></tr> </tr>
+    <tr> <td colspan=4 align="center"><b>Lab 2</b></tr> </tr>
     <tr>
-      <td>⭐ hello world 👋 🌏</td>
+      <td>hello world</td>
       <td> <a href="./lab2/hello.scala">hello.scala</a> </td>
       <td>-</td>
       <td>-</td>
@@ -35,9 +35,28 @@
       <td>-</td>
       <td>-</td>
     </tr>
+    tr> <td colspan=4 align="center"><b>Lab 3</b></tr> </tr>
     <tr>
       <td>Print Functions in Scala</td>
-      <td> <a href="./lab3/operators.scala">operators.scala</a> </td>
+      <td> <a href="./lab3/printDemo.scala">operators.scala</a> </td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Taking Input</td>
+      <td> <a href="./lab3/readline.scala">operators.scala</a> </td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Keywords in scala</td>
+      <td> <a href="./lab3/keywords.scala">operators.scala</a> </td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Adding two no using functions</td>
+      <td> <a href="./lab3/twoNoAddition.scala">operators.scala</a> </td>
       <td>-</td>
       <td>-</td>
     </tr>
